@@ -1,0 +1,3 @@
+This repository contains the config files for i3 and i3blocks 
+place them respectively at /home/user/.config/i3/config and /home/user/.config/i3blocks/i3blocks.config
+replace user with your username	
